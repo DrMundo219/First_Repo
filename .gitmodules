@@ -1,0 +1,3 @@
+[submodule "MultiThreadProject"]
+	path = MultiThreadProject
+	url = git@github.com:DrMundo219/MultiThreadProject.git
